@@ -1,0 +1,5 @@
+data/
+api-key.txt
+.Rhistory
+.Rproj.user/
+*.Rproj
